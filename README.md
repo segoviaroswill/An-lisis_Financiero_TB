@@ -20,7 +20,7 @@ Este proyecto busca ofrecer una visión integral del comportamiento financiero m
 ## 🧩 Tecnologías Utilizadas
 
 - **Power BI** – Visualización interactiva.
-- **Excel / CSV** – Fuentes de datos.
+- **Excel** – Fuentes de datos.
 - **DAX** – Cálculos y medidas dentro del dashboard.
 
 ---

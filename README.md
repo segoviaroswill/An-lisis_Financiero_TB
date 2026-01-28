@@ -101,8 +101,8 @@ Este proyecto busca ofrecer una visión integral del comportamiento financiero m
 - Aumenta el ticket promedio.  
 - Ideal para campañas de fin de año.
   
-### Optimizar Tienda 8: Evaluar ubicación, inventario y estrategia de marketing.
-### Analizar marzo: Identificar factores que impulsaron el pico de ventas para replicarlos.
+#### Optimizar Tienda 8: Evaluar ubicación, inventario y estrategia de marketing.
+#### Analizar marzo: Identificar factores que impulsaron el pico de ventas para replicarlos.
 
 ---
 

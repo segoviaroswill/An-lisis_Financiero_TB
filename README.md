@@ -3,6 +3,7 @@
 Análisis completo del rendimiento financiero de una cadena de tiendas ubicadas en Brasil.  
 Incluye métricas clave, comparaciones por producto, análisis estacional y recomendaciones estratégicas basadas en datos.
 
+
 ---
 
 ## 🚀 Objetivo del Proyecto
